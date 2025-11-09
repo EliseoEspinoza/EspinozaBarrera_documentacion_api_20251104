@@ -5,7 +5,7 @@ return [
     'documentations' => [
         'default' => [
             'api' => [
-                'title' => 'Maria Jose Granillo Guardado',
+                'title' => 'Jose Eliseo Espinoza Barrera',
             ],
 
             'routes' => [

@@ -4,17 +4,19 @@ namespace App\Http\Controllers;
 use OpenApi\Attibutes as OA;
 
 /**
+ * @OA\OpenApi(
  * @OA\Info(
  *     version="1.0.0",
- *     title="Documentacion de API Desarrolloda por Maria Jose Granillo Guardado",
- *      description="API Desarrolloda por Maria Jose Granillo Guardado, para la Universidad Francisco Gavidia",
+ *     title="Documentacion de API Desarrolloda por Jose Eliseo Espinoza Barrera ",
+ *      description="API Desarrolloda por Jose Eliseo Espinoza Barrera, para la Universidad Francisco Gavidia",
  *      @OA\Contact(
- *          email="ia.majogranillo@ufg.edu.sv"
+ *          email="ia.eliseoespinoza@ufg.edu.sv"
  *      ),
  *      @OA\License(
  *      name="Apache 2.0",
  *      url="http://www.apache.org/license/LICENSE-2.0.html"
  *      )
+ * )
  * )
  * 
  * @OA\Server(
@@ -28,7 +30,7 @@ use OpenApi\Attibutes as OA;
  * )
  * 
  * @OA\Server(
- *   url="http://mjgg.ejemplo.com/",
+ *   url="http://carg.ejemplo.com/",
  *   description="Servidor de Produccion"
  * )
  * 
